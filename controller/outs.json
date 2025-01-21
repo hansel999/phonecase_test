@@ -10553,6 +10553,12 @@
             "model": "Micromax In Note 1",
             "case_material": "softcase",
             "price": 200
+        },
+        {
+            "brand": "samsung",
+            "model": "S21",
+            "case_material": "hardcase",
+            "price": 1233
         }
     ]
 }
